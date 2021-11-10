@@ -6,3 +6,6 @@ This repository concentrates on how to translate formula commonly found in paper
 
 TBD 
 [link #1](https://machinelearningmastery.com/implement-machine-learning-algorithm-performance-metrics-scratch-python/)
+[Frechet Inception Distance (FID)](https://machinelearningmastery.com/how-to-implement-the-frechet-inception-distance-fid-from-scratch/)
+[Inception Score (IS)](https://machinelearningmastery.com/how-to-implement-the-inception-score-from-scratch-for-evaluating-generated-images/)
+[Wasserstein Loss](https://machinelearningmastery.com/how-to-implement-wasserstein-loss-for-generative-adversarial-networks/)
